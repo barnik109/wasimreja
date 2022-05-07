@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=wasimreja&theme=material-palenight" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=entdi21kt7c927qt3gsi0ogqk&count=3" />
 </p>
