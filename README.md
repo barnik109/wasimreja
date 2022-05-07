@@ -1,4 +1,4 @@
-<h1 align="center">Hi Geeks, I'm Wasim! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hi geeks, I'm Wasim! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">An aspiring Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimreja&label=Profile%20views&color=red&style=flat" alt="wasimreja" /> </p>
